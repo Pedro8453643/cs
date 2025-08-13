@@ -1,0 +1,39 @@
+{
+  "cervejas": [
+    {
+      "id": "cerveja001",
+      "nome": "Cerveja Pilsen 600ml",
+      "preco": 6.5,
+      "imagem": "cerveja1.png"
+    },
+    {
+      "id": "cerveja002",
+      "nome": "Cerveja IPA 600ml",
+      "preco": 8.0,
+      "imagem": "cerveja2.png"
+    }
+  ],
+  "doces": [
+    {
+      "id": "doce001",
+      "nome": "Chocolate ao Leite 100g",
+      "preco": 4.5,
+      "imagem": "doce1.png"
+    }
+  ],
+  "refrigerantes": [
+    {
+      "id": "refri001",
+      "nome": "Refrigerante Cola 2L",
+      "preco": 7.5,
+      "imagem": "refri1.png"
+    },
+    {
+      "id": "refri003",
+      "nome": "Refrigerante Cola 2L",
+      "preco": 7.5,
+      "imagem": "refri1.png"
+    }
+  ]
+  }
+

@@ -1,0 +1,32 @@
+{
+  "cli001": {
+    "name": "João Silva",
+    "role": "client",
+    "code": "CLI001"
+  },
+  "cli002": {
+    "name": "Maria Santos",
+    "role": "client",
+    "code": "CLI002"
+  },
+  "cli003": {
+    "name": "Carlos Oliveira",
+    "role": "client",
+    "code": "CLI003"
+  },
+  "emp001": {
+    "name": "Adair",
+    "role": "manager",
+    "code": "EMP001"
+  },
+  "emp002": {
+    "name": "Beatriz",
+    "role": "sales",
+    "code": "EMP002"
+  },
+  "emp003": {
+    "name": "Carlos",
+    "role": "sales",
+    "code": "EMP003"
+  }
+}
